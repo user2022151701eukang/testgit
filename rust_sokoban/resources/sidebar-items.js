@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["GameplayState"],"fn":["register_resources"],"struct":["EventQueue","Gameplay","InputQueue","Time"]};

@@ -1,0 +1,9 @@
+(function() {
+    var implementors = Object.fromEntries([["rust_sokoban",[["impl Component for <a class=\"enum\" href=\"rust_sokoban/components/enum.BoxColour.html\" title=\"enum rust_sokoban::components::BoxColour\">BoxColour</a>"],["impl Component for <a class=\"struct\" href=\"rust_sokoban/components/struct.Box.html\" title=\"struct rust_sokoban::components::Box\">Box</a>"],["impl Component for <a class=\"struct\" href=\"rust_sokoban/components/struct.BoxSpot.html\" title=\"struct rust_sokoban::components::BoxSpot\">BoxSpot</a>"],["impl Component for <a class=\"struct\" href=\"rust_sokoban/components/struct.Immovable.html\" title=\"struct rust_sokoban::components::Immovable\">Immovable</a>"],["impl Component for <a class=\"struct\" href=\"rust_sokoban/components/struct.Movable.html\" title=\"struct rust_sokoban::components::Movable\">Movable</a>"],["impl Component for <a class=\"struct\" href=\"rust_sokoban/components/struct.Player.html\" title=\"struct rust_sokoban::components::Player\">Player</a>"],["impl Component for <a class=\"struct\" href=\"rust_sokoban/components/struct.Position.html\" title=\"struct rust_sokoban::components::Position\">Position</a>"],["impl Component for <a class=\"struct\" href=\"rust_sokoban/components/struct.Renderable.html\" title=\"struct rust_sokoban::components::Renderable\">Renderable</a>"],["impl Component for <a class=\"struct\" href=\"rust_sokoban/components/struct.Spike.html\" title=\"struct rust_sokoban::components::Spike\">Spike</a>"],["impl Component for <a class=\"struct\" href=\"rust_sokoban/components/struct.Wall.html\" title=\"struct rust_sokoban::components::Wall\">Wall</a>"]]]]);
+    if (window.register_implementors) {
+        window.register_implementors(implementors);
+    } else {
+        window.pending_implementors = implementors;
+    }
+})()
+//{"start":57,"fragment_lengths":[1596]}

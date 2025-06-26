@@ -1,0 +1,12 @@
+C:\Users\86131\Desktop\rust-sokoban\target\debug\deps\libuuid-71ce00da98a0c143.rmeta: C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-0.8.2\src\lib.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-0.8.2\src\builder\mod.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-0.8.2\src\builder\error.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-0.8.2\src\error.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-0.8.2\src\parser\mod.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-0.8.2\src\parser\error.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-0.8.2\src\prelude.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-0.8.2\src\adapter\mod.rs
+
+C:\Users\86131\Desktop\rust-sokoban\target\debug\deps\uuid-71ce00da98a0c143.d: C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-0.8.2\src\lib.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-0.8.2\src\builder\mod.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-0.8.2\src\builder\error.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-0.8.2\src\error.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-0.8.2\src\parser\mod.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-0.8.2\src\parser\error.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-0.8.2\src\prelude.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-0.8.2\src\adapter\mod.rs
+
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-0.8.2\src\lib.rs:
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-0.8.2\src\builder\mod.rs:
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-0.8.2\src\builder\error.rs:
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-0.8.2\src\error.rs:
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-0.8.2\src\parser\mod.rs:
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-0.8.2\src\parser\error.rs:
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-0.8.2\src\prelude.rs:
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\uuid-0.8.2\src\adapter\mod.rs:

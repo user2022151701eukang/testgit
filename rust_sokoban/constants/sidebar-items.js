@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["MAP_HEIGHT","MAP_WIDTH","TILE_WIDTH"]};

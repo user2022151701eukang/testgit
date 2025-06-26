@@ -1,0 +1,10 @@
+C:\Users\86131\Desktop\rust-sokoban\target\debug\deps\libglyph_brush-0a94e1a46fd39b38.rmeta: C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyph_brush-0.6.3\src\lib.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyph_brush-0.6.3\src\glyph_brush.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyph_brush-0.6.3\src\glyph_brush\builder.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyph_brush-0.6.3\src\glyph_calculator.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyph_brush-0.6.3\src\owned_section.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyph_brush-0.6.3\src\section.rs
+
+C:\Users\86131\Desktop\rust-sokoban\target\debug\deps\glyph_brush-0a94e1a46fd39b38.d: C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyph_brush-0.6.3\src\lib.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyph_brush-0.6.3\src\glyph_brush.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyph_brush-0.6.3\src\glyph_brush\builder.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyph_brush-0.6.3\src\glyph_calculator.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyph_brush-0.6.3\src\owned_section.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyph_brush-0.6.3\src\section.rs
+
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyph_brush-0.6.3\src\lib.rs:
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyph_brush-0.6.3\src\glyph_brush.rs:
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyph_brush-0.6.3\src\glyph_brush\builder.rs:
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyph_brush-0.6.3\src\glyph_calculator.rs:
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyph_brush-0.6.3\src\owned_section.rs:
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glyph_brush-0.6.3\src\section.rs:

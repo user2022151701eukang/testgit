@@ -1,0 +1,14 @@
+C:\Users\86131\Desktop\rust-sokoban\target\debug\deps\libzip-738cf2bdaf933ff1.rmeta: C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zip-0.5.13\src\lib.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zip-0.5.13\src\compression.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zip-0.5.13\src\cp437.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zip-0.5.13\src\crc32.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zip-0.5.13\src\read.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zip-0.5.13\src\result.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zip-0.5.13\src\spec.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zip-0.5.13\src\types.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zip-0.5.13\src\write.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zip-0.5.13\src\zipcrypto.rs
+
+C:\Users\86131\Desktop\rust-sokoban\target\debug\deps\zip-738cf2bdaf933ff1.d: C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zip-0.5.13\src\lib.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zip-0.5.13\src\compression.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zip-0.5.13\src\cp437.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zip-0.5.13\src\crc32.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zip-0.5.13\src\read.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zip-0.5.13\src\result.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zip-0.5.13\src\spec.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zip-0.5.13\src\types.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zip-0.5.13\src\write.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zip-0.5.13\src\zipcrypto.rs
+
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zip-0.5.13\src\lib.rs:
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zip-0.5.13\src\compression.rs:
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zip-0.5.13\src\cp437.rs:
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zip-0.5.13\src\crc32.rs:
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zip-0.5.13\src\read.rs:
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zip-0.5.13\src\result.rs:
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zip-0.5.13\src\spec.rs:
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zip-0.5.13\src\types.rs:
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zip-0.5.13\src\write.rs:
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zip-0.5.13\src\zipcrypto.rs:

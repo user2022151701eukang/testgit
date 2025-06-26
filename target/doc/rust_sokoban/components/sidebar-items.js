@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["BoxColour","RenderableKind"],"fn":["register_components"],"struct":["Box","BoxSpot","Immovable","Movable","Player","Position","Renderable","Spike","Wall"]};

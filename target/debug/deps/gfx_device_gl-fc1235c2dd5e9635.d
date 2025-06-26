@@ -1,0 +1,11 @@
+C:\Users\86131\Desktop\rust-sokoban\target\debug\deps\libgfx_device_gl-fc1235c2dd5e9635.rmeta: C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gfx_device_gl-0.16.2\src\lib.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gfx_device_gl-0.16.2\src\command.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gfx_device_gl-0.16.2\src\factory.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gfx_device_gl-0.16.2\src\info.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gfx_device_gl-0.16.2\src\shade.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gfx_device_gl-0.16.2\src\state.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gfx_device_gl-0.16.2\src\tex.rs
+
+C:\Users\86131\Desktop\rust-sokoban\target\debug\deps\gfx_device_gl-fc1235c2dd5e9635.d: C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gfx_device_gl-0.16.2\src\lib.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gfx_device_gl-0.16.2\src\command.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gfx_device_gl-0.16.2\src\factory.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gfx_device_gl-0.16.2\src\info.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gfx_device_gl-0.16.2\src\shade.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gfx_device_gl-0.16.2\src\state.rs C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gfx_device_gl-0.16.2\src\tex.rs
+
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gfx_device_gl-0.16.2\src\lib.rs:
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gfx_device_gl-0.16.2\src\command.rs:
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gfx_device_gl-0.16.2\src\factory.rs:
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gfx_device_gl-0.16.2\src\info.rs:
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gfx_device_gl-0.16.2\src\shade.rs:
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gfx_device_gl-0.16.2\src\state.rs:
+C:\Users\86131\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gfx_device_gl-0.16.2\src\tex.rs:
