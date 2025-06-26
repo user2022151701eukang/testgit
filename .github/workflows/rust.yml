@@ -1,6 +1,6 @@
 .github/workflows/rust.yml
 
-name: Rust API DocsAdd commentMore actions
+name: Rust API Docs
 
 on:
   push:
