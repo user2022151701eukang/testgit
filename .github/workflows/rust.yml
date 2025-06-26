@@ -1,22 +1,28 @@
-name: Rust
+name: Rust API Docs
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ main ]
   pull_request:
-    branches: [ "master" ]
-
-env:
-  CARGO_TERM_COLOR: always
 
 jobs:
-  build:
-
+  deploy-docs:
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v4
-    - name: Build
-      run: cargo build --verbose
-    - name: Run tests
-      run: cargo test --verbose
+      - uses: actions/checkout@v4
+      
+      - name: Setup Rust
+        uses: actions-rs/toolchain@v1
+        with:
+          toolchain: stable
+          profile: minimal
+          components: rust-docs, rustfmt
+      
+      - name: Generate documentation
+        run: cargo doc --no-deps
+        
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./target/doc
